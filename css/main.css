@@ -66,7 +66,7 @@ main {
   color: unset;
 }
 .pagination .current {
-  background-color: #4caf50;
+  background-color: #1a237e;
   color: #fff;
 }
 .pagination a:hover:not(.current) {
@@ -256,10 +256,10 @@ figure,
   text-align: unset !important;
 }
 .post-readmore {
-  border: 2px solid #4caf50;
+  border: 2px solid #1a237e;
 }
 .post-readmore:hover {
-  background-color: #4caf50;
+  background-color: #1a237e;
   color: #fff;
 }
 .post-header {
@@ -305,7 +305,7 @@ figure,
   height: 0;
   font-weight: bold;
   color: #fff;
-  border: 15px solid #009688;
+  border: 15px solid #3f51b5;
   border-right-color: transparent;
   box-shadow: 0 5px 5px -5px #000;
   margin: 5px 0 5px 0;
@@ -675,7 +675,7 @@ figure,
 .search-form {
   width: 100%;
   height: 50px;
-  background-color: #009688;
+  background-color: #3f51b5;
 }
 .search-form-input {
   width: calc(100% - 32px);
@@ -730,7 +730,7 @@ figure,
   border-color: rgba(255,255,255,0.12);
 }
 .search-result-title {
-  color: #009688;
+  color: #3f51b5;
   text-decoration: none;
 }
 .search-result-title:hover,
@@ -744,5 +744,5 @@ figure,
 .search-result-keyword {
   font-style: normal;
   color: #fff;
-  background: #009688;
+  background: #3f51b5;
 }
