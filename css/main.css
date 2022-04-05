@@ -256,10 +256,10 @@ figure,
   text-align: unset !important;
 }
 .post-readmore {
-  border: 2px solid #4caf50;
+  border: 2px solid #3f51b5;
 }
 .post-readmore:hover {
-  background-color: #4caf50;
+  background-color: #3f51b5;
   color: #fff;
 }
 .post-header {
